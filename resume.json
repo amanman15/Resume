@@ -1,0 +1,79 @@
+{
+	"basics": {
+		"name": "Aman Jain",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2018kuec2055@iiitkota.ac.in",
+		"phone": "7378239669",
+		"website": "---Enter Link of website(if any) ---",
+		"summary": "I am a student of Indian Institute Of Information Technology, Kota.I am a devoted to work which I want to complete or which I want to learn. I am able to handle multiple task and also love to help people. I have experience working multiple works toegther and also am a dependent person who is good at time management. Also I have a jolly nature and friendly with my fellow mates.",
+		"location": {
+			"address": "3-P-45 Mahaveer Nagar Extension",
+			"postalCode": "324009",
+			"city": "Kota",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "bloggerbaba2",
+				"url": "https://www.twitter.com/bloggerbaba2"
+			},
+			{
+				"network": "Github",
+				"username": "amanman15",
+				"url": "https://www.github.com/amanman15"
+			},
+			{
+				"network": "linkedin",
+				"username": "aman-jain-87a562207",
+				"url": "https://www.linkedin.com/in/aman-jain-87a562207"
+        
+			},
+			{
+				"network": "Instagram",
+				"username": "antar_yamy",
+				"url": "https://instagram.com/antar_yamy"
+			}
+		]
+	},
+	"volunteer": [{
+		"organization": "NGO H.O.P.E",
+		"position": "Leader Of Fund Raiser Group",
+		"website": "https://www.hopeeverywhere.in/",
+		"startDate": "2018-08-05 // Note Date Format",
+		"endDate": "2019-04-01",
+		"summary": "In the NGO HOPE I worked as leader of Fund Raiser group in which me with my volunteers used to raise money for needy children of NGO H.O.P.E.",
+		
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2018-08-10 //Date",
+		"endDate": "2022-06-10",
+		"gpa": "7.00",
+		"courses": [
+			"Electronics & Communication Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "Certificate Of Appreciation",
+		"awarder": "City President:NGO H.O.P.E",
+		"date": "2020-08-21//Date"
+	}],
+	"publications": [{
+		"title": "---Enter Title---",
+		"details": "---Enter Details---",
+		"link": "---github/website link to show your work---"
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript", "python", "SQL"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": ["playing"]
+}
